@@ -1,4 +1,4 @@
-public class Main
+public class ExceptionDemo
 {
     public static void main(String args[])
     {
