@@ -1,1 +1,1 @@
-# This is the Demo file for the project idea, in this a Student Management System was implemented
+# Student Record System  Demo Project
