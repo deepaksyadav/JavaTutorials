@@ -1,4 +1,5 @@
 // A simple BankAccount class
+// OverdraftException.java is needed in same scope
 class BankAccount {
     private double balance;
 
@@ -31,4 +32,5 @@ public class ThrowThrowsDemo {
         }
     }
 }
+
 
